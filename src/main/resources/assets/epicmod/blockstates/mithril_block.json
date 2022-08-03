@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "epicmod:block/mithril_block" }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epicmod:corn"
+    }
+  ],
+  "result": {
+    "item": "epicmod:corn_kernels",
+    "count": 1
+  }
+}

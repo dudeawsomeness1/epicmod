@@ -1,0 +1,10 @@
+{
+	"kernels_placed": {
+		"category": "block",
+		"sounds": [ "epicmod:kernels_placed_1", "epicmod:kernels_placed_2", "epicmod:kernels_placed_3" ]
+	},
+	"barrow_wight_ambient": {
+		"category": "hostile",
+		"sounds": [ "epicmod:barrow_wight" ]
+	}
+}

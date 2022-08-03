@@ -1,0 +1,18 @@
+{
+  "group": "epicmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "epicmod:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "epicmod:mithril_block",
+    "count": 1
+  }
+}

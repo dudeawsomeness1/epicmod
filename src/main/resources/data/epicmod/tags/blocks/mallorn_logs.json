@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "epicmod:mallorn_log",
+    "epicmod:mallorn_wood",
+    "epicmod:stripped_mallorn_log",
+    "epicmod:stripped_mallorn_wood"
+  ]
+}

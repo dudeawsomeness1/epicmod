@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "epicmod:block/magicality_table_front",
+        "down": "epicmod:block/magicality_table_bottom",
+        "up": "epicmod:block/magicality_table_top",
+        "north": "epicmod:block/magicality_table_front",
+        "east": "epicmod:block/magicality_table_side",
+        "south": "epicmod:block/magicality_table_front",
+        "west": "epicmod:block/magicality_table_side"
+    }
+}

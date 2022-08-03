@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epicmod:mithril_chestplate"
+    },
+	{
+      "item": "epicmod:shard_of_the_interplane"
+    },
+	{
+	  "item": "epicmod:pearl"
+	},
+	{
+	  "item": "epicmod:ruby"
+	},
+	{
+	  "item": "epicmod:peridot"
+	}
+  ],
+  "result": {
+    "item": "epicmod:seasonal_chestplate",
+    "count": 1
+  }
+}

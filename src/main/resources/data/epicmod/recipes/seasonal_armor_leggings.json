@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epicmod:mithril_leggings"
+    },
+	{
+      "item": "epicmod:shard_of_the_interplane"
+    },
+	{
+	  "item": "epicmod:sapphire"
+	},
+	{
+	  "item": "epicmod:opal"
+	},
+	{
+	  "item": "epicmod:topaz"
+	}
+  ],
+  "result": {
+    "item": "epicmod:seasonal_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mithril_ingot",
+  "ingredients": [
+    {
+      "item": "epicmod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "epicmod:ruby",
+    "count": 9
+  }
+}

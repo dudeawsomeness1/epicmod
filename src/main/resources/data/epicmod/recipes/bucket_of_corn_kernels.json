@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    },
+	{
+      "item": "epicmod:corn_kernels"
+    }
+  ],
+  "result": {
+    "item": "epicmod:bucket_of_corn_kernels",
+    "count": 1
+  }
+}

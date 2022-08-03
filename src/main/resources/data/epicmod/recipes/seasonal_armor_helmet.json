@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epicmod:mithril_helmet"
+    },
+	{
+      "item": "epicmod:shard_of_the_interplane"
+    },
+	{
+	  "item": "epicmod:aquamarine"
+	},
+	{
+	  "item": "minecraft:diamond"
+	},
+	{
+	  "item": "minecraft:emerald"
+	}
+  ],
+  "result": {
+    "item": "epicmod:seasonal_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "epicmod:block/mallorn_planks",
+        "top": "epicmod:block/mallorn_planks",
+        "side": "epicmod:block/mallorn_planks"
+    }
+}

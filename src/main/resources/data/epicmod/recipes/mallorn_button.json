@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "epicmod:mallorn_planks"
+    }
+  ],
+  "result": {
+    "item": "epicmod:mallorn_button"
+  }
+}

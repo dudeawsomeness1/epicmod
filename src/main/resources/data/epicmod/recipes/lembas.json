@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CKC",
+    "WWW",
+    "HMS"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+	"H": {
+      "item": "minecraft:honey_bottle"
+    },
+	"C": {
+      "item": "epicmod:corn"
+    },
+	"M": {
+	  "item": "epicmod:mallorn_leaves"
+	},
+	"K": {
+	  "item": "minecraft:cake"
+	},
+	"S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "epicmod:lembas",
+    "count": 1
+  }
+}

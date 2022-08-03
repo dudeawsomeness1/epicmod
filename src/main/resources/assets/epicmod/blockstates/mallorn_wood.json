@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "epicmod:block/mallorn_wood" },
+        "axis=z":   { "model": "epicmod:block/mallorn_wood", "x": 90 },
+        "axis=x":   { "model": "epicmod:block/mallorn_wood", "x": 90, "y": 90 }
+    }
+}

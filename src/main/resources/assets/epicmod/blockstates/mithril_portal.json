@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "epicmod:block/mithril_portal_ew"
+    },
+    "axis=x": {
+      "model": "epicmod:block/mithril_portal_ns"
+    }
+  }
+}

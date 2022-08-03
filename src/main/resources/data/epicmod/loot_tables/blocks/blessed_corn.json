@@ -1,0 +1,80 @@
+{
+	"type": "minecraft:block",
+    "pools": [
+		{
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "epicmod:corn",
+                    "conditions": [
+                        {
+							"condition": "minecraft:block_state_property",
+							"block": "epicmod:blessed_corn",
+							"properties": {
+								"stage": "1"
+							}
+						}
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "epicmod:corn",
+                    "conditions": [
+						{
+							"condition": "minecraft:block_state_property",
+							"block": "epicmod:blessed_corn",
+							"properties": {
+								"stage": "2"
+							}
+						}
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 2
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "rolls": 1.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "weight": 1,
+                    "name": "epicmod:corn",
+                    "conditions": [
+						{
+							"condition": "minecraft:block_state_property",
+							"block": "epicmod:blessed_corn",
+							"properties": {
+								"stage": "3"
+							}
+						}
+                    ],
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

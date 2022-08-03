@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "o": {
+      "item": "epicmod:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "epicmod:mithril_shield"
+  }
+}

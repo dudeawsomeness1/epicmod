@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "M M",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+	"I": {
+      "item": "minecraft:iron_ingot"
+    },
+	"M": {
+      "item": "epicmod:mithril_ingot"
+    }
+  },
+  "result": {
+    "item": "epicmod:mithril_chest"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+	  "item": "epicmod:scanner"
+	},
+	{
+	  "item": "minecraft:diamond"
+	}
+  ],
+  "result": {
+    "item": "epicmod:scanner2",
+    "count": 1
+  }
+}

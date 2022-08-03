@@ -1,0 +1,6 @@
+{
+	"parent": "block/leaves",
+	"textures": {
+		"all": "epicmod:block/mallorn_leaves_autumnal"
+	}
+}

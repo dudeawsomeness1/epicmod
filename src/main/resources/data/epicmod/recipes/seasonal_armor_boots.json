@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "epicmod:mithril_boots"
+    },
+	{
+      "item": "epicmod:shard_of_the_interplane"
+    },
+	{
+	  "item": "epicmod:tanzanite"
+	},
+	{
+	  "item": "epicmod:garnet"
+	},
+	{
+	  "item": "epicmod:amethyst"
+	}
+  ],
+  "result": {
+    "item": "epicmod:seasonal_boots",
+    "count": 1
+  }
+}

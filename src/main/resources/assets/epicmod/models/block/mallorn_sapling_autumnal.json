@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "epicmod:block/mallorn_sapling_autumnal"
+    }
+}

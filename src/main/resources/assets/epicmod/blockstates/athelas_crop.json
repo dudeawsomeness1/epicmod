@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "epicmod:block/athelas_stage0"
+    },
+    "age=1": {
+      "model": "epicmod:block/athelas_stage1"
+    },
+    "age=2": {
+      "model": "epicmod:block/athelas_stage2"
+    },
+    "age=3": {
+      "model": "epicmod:block/athelas_stage3"
+    },
+    "age=4": {
+      "model": "epicmod:block/athelas_stage4"
+    },
+    "age=5": {
+      "model": "epicmod:block/athelas_stage5"
+    },
+    "age=6": {
+      "model": "epicmod:block/athelas_stage6"
+    },
+    "age=7": {
+      "model": "epicmod:block/athelas_stage7"
+    }
+  }
+}

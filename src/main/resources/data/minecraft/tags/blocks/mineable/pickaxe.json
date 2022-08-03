@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "epicmod:mithril_ore",
+        "epicmod:deepslate_mithril_ore",
+        "epicmod:mithril_block",
+        "epicmod:ruby_ore",
+        "epicmod:deepslate_ruby_ore",
+        "epicmod:ruby_block"
+    ]
+}

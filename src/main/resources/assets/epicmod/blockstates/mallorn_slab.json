@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "epicmod:block/mallorn_slab" },
+        "type=top": { "model": "epicmod:block/mallorn_slab_top" },
+        "type=double": { "model": "epicmod:block/mallorn_planks" }
+    }
+}

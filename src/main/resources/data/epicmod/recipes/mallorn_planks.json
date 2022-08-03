@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "epicmod:mallorn_logs"
+    }
+  ],
+  "result": {
+    "item": "epicmod:mallorn_planks",
+    "count": 4
+  }
+}

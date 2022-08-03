@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": [
+			{ "model": "epicmod:block/ruby_block" }
+		]
+	}
+}

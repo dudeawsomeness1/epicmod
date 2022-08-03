@@ -1,0 +1,26 @@
+{
+    "type": "create:crushing",
+    "group": "minecraft:misc",
+    "ingredients": [
+    	{
+    		"item": "epicmod:mithril_ore"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "epicmod:mithril_ingot",
+			"count": 1
+		},
+		{
+			"item": "epicmod:mithril_ingot",
+			"count": 1,
+			"chance": 0.25
+		},
+		{
+			"item": "minecraft:cobblestone",
+			"count": 1,
+			"chance": 0.125
+		}
+	],
+	"processingTime": 450
+}

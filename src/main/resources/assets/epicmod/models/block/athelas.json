@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "epicmod:block/athelas",
+    "particle": "epicmod:block/athelas"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "epicmod:item/bucket_of_corn_kernels"
+	}
+}
